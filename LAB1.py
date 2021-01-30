@@ -15,3 +15,13 @@ def validatePassword(password):
         if z >=2 :
             return True
     return False
+
+def sumUpToN(integer):
+    number2 = 0
+    intcheck = isinstance(integer, int)
+    if intcheck == True and integer > 1:
+            for i in range(1,integer+1):
+                number2 = number2 + i
+    else:
+            number2 = -1
+    return number2
