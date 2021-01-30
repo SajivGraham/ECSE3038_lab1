@@ -25,3 +25,19 @@ def sumUpToN(integer):
     else:
             number2 = -1
     return number2
+
+print("\n")
+
+hello()
+
+print("\n")
+
+print(validatePassword("testtest12"))
+
+print("\n")
+
+print(sumUpToN(2))
+
+print("\n")
+
+

@@ -1,6 +1,6 @@
 # ECSE 3038 LAB 1
 
-This exercise is an intro to using vscode and github.
+This exercise is an introduction to using vscode and github.
 
 ## What the functions do:
 
@@ -10,3 +10,5 @@ This exercise is an intro to using vscode and github.
 
 3. sumUpToN() : takes an integer as input and returns the sum of the numbers from 1 up to the number provided.
 
+# Joke
+I am the joke, I should have bought gamestop stocks :'(
